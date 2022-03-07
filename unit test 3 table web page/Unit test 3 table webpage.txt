@@ -1,0 +1,75 @@
+<html>
+<head><title>Unit test 03. Webpage using table tags</title></head>
+<body>
+
+    <table border="1" width="99%" height="99">
+            <tr>
+                <th>&nbsp<font type='Arial' color='#e10e2e' size='7'>Home</font>  &nbsp</th>
+                <th>&nbsp <font type='Arial' color='#e1e10e' size='7'>About us</font> &nbsp</th>
+                <th>&nbsp <font type='Arial' color='#14e114' size='7'>Services</font> &nbsp</th>
+                <th>&nbsp <font type='Arial' color='#3333ff' size='7'>Galery</font> &nbsp</th>
+                <th>&nbsp <font type='Arial' color='#ff3399' size='7'>contact us</font> &nbsp</th>
+                
+            </tr>
+
+            <tr>
+                <td  colspan="6"> <img src="../Images/bank.jpg" alt="Bank" width="1500" height="150">  </td>
+                
+            </tr>
+
+	    
+	   
+	    <tr>
+		<td colspan="2" > <img src="../Images/modern-online-banking-vector-20452770.jpg" alt="Online banking" height="200" width="460"> </td>
+                <td colspan="2" ><img src="../Images/Openanaccount.jpg" alt="Online banking" height="200" width="460"></td>
+                <td colspan="2" ><img src="../Images/Loan.jpg" alt="Online banking" height="200" width="460"> </td>
+            </tr>
+           
+		
+
+	    
+           <tr>
+            <td colspan="6"><p align='center'><font size='6' color='#0000ff'>Welcome</font> to<font size='9' color='#b12db4' ><b>The First Bank page</b></font></p></td>
+            
+        </tr>
+        
+
+        
+
+           
+	          <tr>
+                    <td colspan="2" ><p><b>What Is Online Banking?</b><br>
+                        With online banking, consumers aren't required to visit a bank branch to complete most of their basic banking transactions.Online banking allows a user to conduct financial transactions via the Internet. Online banking is also known as Internet banking or web banking.    Online banking offers customers almost every service traditionally available through a local branch including deposits, transfers, and online bill payments. Virtually every banking institution has some form of online banking, available both on desktop versions and through mobile apps.</p></td>
+                    <td colspan="2" ><p><b>How to Open a Checking Account?</b><br>
+                        There are agencies that keep track of and report your banking history. The official name of this report card on your bank accounts is "consumer banking report." Banks and credit unions look at this report before they will allow you to open a new account.The two consumer reporting agencies that track the vast majority of bank accounts in the United States are ChexSystems and Early Warning System.Once you know the features you want, search online for banks that offer them. Be aware of the limitations of one type of account compared to another.</p></td>
+                    <td colspan="2" ><p><b>Apply for a Loan</b><br>
+                        Once you’ve narrowed the field, it’s time to apply for a loan. If you plan to apply with more than one lender, try to bunch your applications together within a 14-to-30-day period. This is known as “rate shopping,” and multiple inquiries will be treated as one, having a smaller impact on your credit.Approval and funding times vary by lender, but you can expect something close to the following.Once you are approved—ideally, for more than one loan—pick the one you like best, sign the papers, obtain funding. Then, of course, get ready for the next part: paying back the loan.</p></td>
+                </tr>
+               
+            
+           
+
+               <tr>
+                <td  colspan="6"><img src="../Images/fixeddeposit.jpg" alt="fixeddeposit" width="1500" height="100"></td>
+                
+            </tr>
+
+
+
+
+            <tr>
+                <td colspan="2" > <img src="../Images/location.jpg" alt="Online banking" height="100" width="460"> </td>
+                        <td colspan="2" ><img src="../Images/email.jpg" alt="Online banking" height="100" width="460"></td>
+                        <td colspan="2" ><img src="../Images/telephone.jpg" alt="Online banking" height="100" width="460"> </td>
+                    </tr>
+         
+
+
+        
+    </table>
+
+
+
+
+</body>
+</html>
